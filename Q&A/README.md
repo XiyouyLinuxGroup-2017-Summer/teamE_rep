@@ -3,5 +3,5 @@
 
 <h3>文件命名</h3>
 <br>&emsp;&emsp;问题文件命名规则: question(num)_from_name (例: question1_from_hp)
-<br>&emsp;&emsp;解答文件命名规则: answer(num)_from_name_to_name(例: answer1_from_mq_to_hp)
+<br>&emsp;&emsp;解答文件命名规则: answer(num)_from_name_to_name (例: answer1_from_mq_to_hp)
 
