@@ -1,0 +1,14 @@
+c99中引用 stdbool.h<br>
+即可使用两种写法的布尔类型
+```
+#include<stdio.h>
+#include<stdbool.h>
+int main(){
+    bool a;
+    _Bool b;
+    printf("%lu  %lu\n",sizeof(a),sizeof(b));
+}
+
+```
+输出 1  1
+
