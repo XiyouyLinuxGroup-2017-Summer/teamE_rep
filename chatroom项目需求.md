@@ -7,8 +7,10 @@
  2. 环境要求
 
 	a. Linux开发环境， 所有的API基于LinuxC（所有操作尽量使用LinuxC系统调用，比如打开文件使用open（）， 而非fopen（））。
+
 	b. 编译器 ： gcc/g++
- 	c. 编辑器 ： Vim/Emacs
+
+	c. 编辑器 ： Vim/Emacs
 
  3. 代码实现功能详细要求
 
